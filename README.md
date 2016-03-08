@@ -3,6 +3,7 @@
 ## Organizing Sass: 
 - Use _universal selector to set variables for things like `<p>`, `<h1>`, `<button>`, etc.
 - giving one element multiple classes, both helps keep things organized (and in terms of sass, helps with nesting)
+- Create partial stylesheets for each breakpoint on the screen (i.e. one for phone, one for tablets, one for desktops).
 
 ## Positioning: 
 - fixed: relative to browser, doesn't move regardless of what parent does
@@ -15,5 +16,11 @@
 
 ## Website Planning
 - drawing out a sketch of your design before starting any coding / being able to physically see on paper what your plan to code (divs within divs within div) is much more helpful and organizational
+
+## Project Management
+- Create a github repository for your project, connect to it, and regularly save your commits to your remote directory.
+
+## File Structure
+- Every HTML document begins with '!Doctype html' and contains html, head, and body elements.
 
 
